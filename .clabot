@@ -1,0 +1,5 @@
+{
+  "contributors": "https://gist.githubusercontent.com/johnymontana/cd618a860bad1ae4cb3c33ccea083ef8/raw/75a0799a52de57983a1adef65eccf18ded7f0213/cla.json",
+  "label": "cla-signed",
+  "message": "Thank you for your pull request and welcome to our community. We require contributors to sign our Contributor License Agreement, and we don't seem to have you on file. In order for us to review and merge your code, please follow the instructions at https://neo4j.com/developer/cla/"
+}
